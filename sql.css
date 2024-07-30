@@ -2,16 +2,21 @@
     border-color: black;
     display: flex;
     position: absolute;
-    padding-left: 330px;
-    padding-top: 30px;
+    padding-left: 100px;
+    padding-top: 60px;
 }
 body{
     background-color: rgb(17, 14, 14);
 }
 h3{
     color: aliceblue;
-    padding-top: 300px;
-    padding-right: 600px;
-    display: contents;
-    align-content: last baseline;
+    position: relative;
+    top: 30px;
+    left: 20px;
+    font-size: 15px;
+    
+}
+h1{
+    color: rgb(15, 116, 204);
+    font-size: 50px;
 }
